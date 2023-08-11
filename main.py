@@ -9,3 +9,6 @@ def minus(a, b):
 def foo():
     pass
 
+def bar():
+    pass
+
