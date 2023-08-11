@@ -6,9 +6,3 @@ def summma(*args):
 def minus(a, b):
     return(a - b)
 
-def foo():
-    pass
-
-def bar():
-    pass
-
